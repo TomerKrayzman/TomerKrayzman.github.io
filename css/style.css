@@ -308,3 +308,7 @@ a {
 .bg-white {
     background-color:white !important
 }
+
+.letter2-title {
+  line-height: 3.7rem !important;
+}
